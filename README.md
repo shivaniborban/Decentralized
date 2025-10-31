@@ -29,3 +29,14 @@ Future Scope:
 📈 Integrate with a frontend for real-time fundraising dashboards.
 
 🌐 Deploy on multiple blockchains (Polygon, Arbitrum, Base, etc.).
+
+
+
+
+
+#contract details : 0x737e217318B72b5C8e3F28bA106Df5FdC01D243e
+
+
+
+<img width="1887" height="767" alt="shivani" src="https://github.com/user-attachments/assets/2f334261-bf22-4ce2-952c-95ff384408c2" />
+
