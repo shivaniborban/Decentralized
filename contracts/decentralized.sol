@@ -1,4 +1,4 @@
-// Crowdfunding solidity project for GOG by Shivani
+// Crowdfunding solidity project for GOG by Shivani Borban
 pragma solidity ^0.8.20;
 
 contract CharityDonation {
